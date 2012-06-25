@@ -1,0 +1,11 @@
+D:\HelpDesk\New folder\cambiarIP\cambiarIP\bin\Debug\cambiarIP.exe
+D:\HelpDesk\New folder\cambiarIP\cambiarIP\bin\Debug\cambiarIP.pdb
+D:\HelpDesk\New folder\cambiarIP\cambiarIP\bin\Debug\cambiarIP.xml
+D:\HelpDesk\New folder\cambiarIP\cambiarIP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\HelpDesk\New folder\cambiarIP\cambiarIP\obj\x86\Debug\cambiarIP.Form1.resources
+D:\HelpDesk\New folder\cambiarIP\cambiarIP\obj\x86\Debug\cambiarIP.Resources.resources
+D:\HelpDesk\New folder\cambiarIP\cambiarIP\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\HelpDesk\New folder\cambiarIP\cambiarIP\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\HelpDesk\New folder\cambiarIP\cambiarIP\obj\x86\Debug\cambiarIP.exe
+D:\HelpDesk\New folder\cambiarIP\cambiarIP\obj\x86\Debug\cambiarIP.xml
+D:\HelpDesk\New folder\cambiarIP\cambiarIP\obj\x86\Debug\cambiarIP.pdb
